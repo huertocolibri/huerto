@@ -1,0 +1,29 @@
+p {
+color:blue;
+background-color:white ;
+}
+p.small {Font-size:small;}
+p.italic {Font-style: italic;}
+p.ligth {Font-weigth: ligther;}
+p.normal {Font-variant: normal;}
+p.color {color:green;}
+p.derecha {text-align:rigth;}
+p{text-ident:60px;}
+p{color: blue;
+font-size:30pt;
+text-shadow: 5px 2px 4px blue; 
+}
+
+
+	p1 {
+color:0597C;
+background-color: A7CD05;
+
+}		
+p2 {
+color:black;
+background-color: yellow;
+h1{font-size:30pt;}
+
+p.espaciado{letter-spacing: 4px; }
+
